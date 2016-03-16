@@ -42,6 +42,7 @@ A curated list of resources for building and promoting more compassionate engine
 
 ## Helpful Books
 - [Design for Real Life](https://abookapart.com/products/design-for-real-life) by Eric Meyer & Sara Wachter-Boettcher
+- [Difficult Conversations: How to Discuss What Matters Most](http://smile.amazon.com/gp/product/B004CR6ALA/) by by Douglas Stone, Bruce Patton, and Sheila Heen of the Harvard Negotion Project
 
 ## Presentations and Videos
 - [Designing for Disaster](https://vimeo.com/148927676) by Eric Meyer at An Event Apart
