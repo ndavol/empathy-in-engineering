@@ -27,6 +27,10 @@ A curated list of resources for building and promoting more compassionate engine
 
 > At Etsy, it’s not just engineers who write and deploy code – our designers and product managers regularly do too.
 
+- [On Empathy & Pull Requests at Slack](https://slack.engineering/on-empathy-pull-requests-979e4257d158) | [Followup](https://slack.engineering/how-about-code-reviews-2695fb10d034)
+
+> Good pull requests are an act of empathy, for both the author and reviewer.
+
 - [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 
 > We instead want to view mistakes, errors, slips, lapses, etc. with a perspective of learning. Having blameless Post-Mortems on outages and accidents are part of that.
