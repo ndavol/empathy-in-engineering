@@ -52,3 +52,4 @@ A curated list of resources for building and promoting more compassionate engine
 ## Bookmarklets and Plugins
 
 - [JS Simulation of Dyslexia](http://geon.github.io/programming/2016/03/03/dsxyliea)
+- [JS Bookmarklet Simulating Colorblindness](https://github.com/Altreus/colourblind)
