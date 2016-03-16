@@ -53,3 +53,4 @@ A curated list of resources for building and promoting more compassionate engine
 
 - [JS Simulation of Dyslexia](http://geon.github.io/programming/2016/03/03/dsxyliea)
 - [JS Bookmarklet Simulating Colorblindness](https://github.com/Altreus/colourblind)
+- [NoCoffee: JS Bookmarklet Simulating Low Vision Scenarios](https://accessgarage.wordpress.com/2013/02/09/458/)
