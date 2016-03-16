@@ -5,11 +5,6 @@ A curated list of resources for building and promoting more compassionate engine
 
 ## Articles
 
-### Empathy in Hiring
-
-- [A Guide to Empathetic Hiring Process](https://medium.com/@fox/a-guide-to-empathetic-hiring-processes-c11c7ce0cd49#.2lp0a0phu)
-
-
 ### Empathy for your users
 
 - [On Facebook's "Compassion Team"](http://www.nytimes.com/2016/03/13/fashion/facebook-breakup-compassion-team.html?_r=0)
@@ -39,8 +34,17 @@ A curated list of resources for building and promoting more compassionate engine
 
 > Rozovsky and her colleagues had figured out which norms were most critical. Now they had to find a way to make communication and empathy — the building blocks of forging real connections — into an algorithm they could easily scale.
 
+
+### Empathy in Hiring
+
+- [A Guide to Empathetic Hiring Process](https://medium.com/@fox/a-guide-to-empathetic-hiring-processes-c11c7ce0cd49#.2lp0a0phu)
+
+
 ## Helpful Books
 - [Design for Real Life](https://abookapart.com/products/design-for-real-life) by Eric Meyer & Sara Wachter-Boettcher
 
 ## Presentations and Videos
 - [Designing for Disaster](https://vimeo.com/148927676) by Eric Meyer at An Event Apart
+
+## Bookmarklets and Plugins
+TBA
