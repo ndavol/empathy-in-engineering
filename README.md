@@ -3,9 +3,9 @@ A curated list of resources for building and promoting more compassionate engine
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-📰 - Article
-📚  - Book
-📹 - Video
+- 📰 - Article
+- 📚  - Book
+- 📹 - Video
 
 ## Learning Resources
 
@@ -18,6 +18,10 @@ A curated list of resources for building and promoting more compassionate engine
 📰  [Too sensitive: About microaggressions in UX](https://medium.com/@sara_ann_marie/too-sensitive-9752a86a8382)
 
 > I’ve been paying close attention to these small breaks in UX that some people seem so happy to write off — the misplaced humor, the snotty error messages, the binary gender selection boxes, the assumptions about sexuality, the inability to select more than one race.
+
+📰  [The Fantasy and Abuse of the Manipulable User](https://modelviewculture.com/pieces/the-fantasy-and-abuse-of-the-manipulable-user)
+
+> Casual deployment of so-called UX “greypatterns” and “darkpatterns” degrades the overall user experience of the web.
 
 📚  [Design for Real Life](https://abookapart.com/products/design-for-real-life) by Eric Meyer & Sara Wachter-Boettcher
 
