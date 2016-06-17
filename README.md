@@ -34,7 +34,6 @@ A curated list of resources for building and promoting more compassionate engine
 
 > At Etsy, it’s not just engineers who write and deploy code – our designers and product managers regularly do too.
 
-  
 [On Empathy & Pull Requests at Slack](https://slack.engineering/on-empathy-pull-requests-979e4257d158) 📰 | [Followup](https://slack.engineering/how-about-code-reviews-2695fb10d034) 📰 - Slack Engineering
 
 > Good pull requests are an act of empathy, for both the author and reviewer.
@@ -48,6 +47,8 @@ A curated list of resources for building and promoting more compassionate engine
 > Rozovsky and her colleagues had figured out which norms were most critical. Now they had to find a way to make communication and empathy — the building blocks of forging real connections — into an algorithm they could easily scale.
 
 [Difficult Conversations: How to Discuss What Matters Most](http://smile.amazon.com/gp/product/B004CR6ALA/) 📚  - Douglas Stone, Bruce Patton, & Sheila Heen of the Harvard Negotion Project
+
+[Engineering Empathy: Fostering an Inclusive Culture at our Code School](http://www.alterconf.com/talks/engineering-empathy-fostering-inclusive-culture-our-code-school) 📹 - Lateesha Thomas, Dev Bootcamp at Alterconf SF 2016
 
 
 ### Empathy in Hiring
