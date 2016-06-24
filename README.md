@@ -23,9 +23,12 @@ A curated list of resources for building and promoting more compassionate engine
 
 > Casual deployment of so-called UX “greypatterns” and “darkpatterns” degrades the overall user experience of the web.
 
+[Empathy: The key to a successful software project](https://www.oreilly.com/ideas/empathy-the-key-to-a-successful-software-project) 📰 - Gregory Brown at O'Reilly
+
 [Design for Real Life](https://abookapart.com/products/design-for-real-life) 📚 - Eric Meyer & Sara Wachter-Boettcher
 
 [Designing for Disaster](https://vimeo.com/148927676) 📹 - Eric Meyer at An Event Apart
+
 
 ### Empathy for your peers
 
