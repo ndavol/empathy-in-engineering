@@ -25,19 +25,19 @@ A curated list of resources for building and promoting more compassionate engine
 - [On Empathy & Pull Requests at Slack](https://slack.engineering/on-empathy-pull-requests-979e4257d158) 📰 | [Followup](https://slack.engineering/how-about-code-reviews-2695fb10d034) 📰 - The Slack Engineering blog goes into how good pull requests are an act of empathy of our teammates.
 - [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/) 📰 - Etsy's Code as Craft blog discusses how they look at mistakes with a perspective of learning through blameless post-mortems.
 - [What Google Learned From Its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) 📰 - The New York Times synthesizes how Google's data-driven culture discovered that norms centering communication and empathy made better teams.
-- [Difficult Conversations: How to Discuss What Matters Most](http://smile.amazon.com/gp/product/B004CR6ALA/) 📚  - Douglas Stone, Bruce Patton, & Sheila Heen of the Harvard Negotiation Project write about how to handle difficult conversations through a series of techniques that consider the "Third Story"
-- [Engineering Empathy: Fostering an Inclusive Culture at our Code School](http://www.alterconf.com/talks/engineering-empathy-fostering-inclusive-culture-our-code-school) 📹 - Lateesha Thomas discusses why empathy is part of the curriculum at DevBootcamp at Alterconf SF 2016
+- [Difficult Conversations: How to Discuss What Matters Most](http://smile.amazon.com/gp/product/B004CR6ALA/) 📚  - Douglas Stone, Bruce Patton, & Sheila Heen of the Harvard Negotiation Project write about how to handle difficult conversations through a series of techniques that consider the "Third Story."
+- [Engineering Empathy: Fostering an Inclusive Culture at our Code School](http://www.alterconf.com/talks/engineering-empathy-fostering-inclusive-culture-our-code-school) 📹 - Lateesha Thomas discusses why empathy is part of the curriculum at DevBootcamp at Alterconf SF 2016.
 
 
 ### Empathy in Hiring
 
-- [A Guide to Empathetic Hiring Process](https://medium.com/@fox/a-guide-to-empathetic-hiring-processes-c11c7ce0cd49#.2lp0a0phu) 📰 - @Fox on Medium
+- [A Guide to Empathetic Hiring Process](https://medium.com/@fox/a-guide-to-empathetic-hiring-processes-c11c7ce0cd49) 📰 - @Fox on Medium discuss a few simple things employers can do to be kind to job applicants. 
 
 
 ## Bookmarklets and Plugins
 
 Sometimes you need code samples to implement strategies above.
 
-- [JS Simulation of Dyslexia](http://geon.github.io/programming/2016/03/03/dsxyliea) - A simulation of what it is like to read a block of text with dyslexia
-- [JS Bookmarklet Simulating Colorblindness](https://github.com/Altreus/colourblind) - A JS bookmarklet that takes any page and simulates what is like to navigate with colorblindness
-- [NoCoffee: JS Bookmarklet Simulating Low Vision Scenarios](https://accessgarage.wordpress.com/2013/02/09/458/) - A JS bookmarklet that takes any page and simulates in low vision scenarios
+- [JS Simulation of Dyslexia](http://geon.github.io/programming/2016/03/03/dsxyliea) - This is a simulation of what it is like to read a block of text with dyslexia.
+- [JS Bookmarklet Simulating Colorblindness](https://github.com/Altreus/colourblind) - This is a JS bookmarklet that takes any page and simulates what is like to navigate with colorblindness.
+- [NoCoffee: JS Bookmarklet Simulating Low Vision Scenarios](https://accessgarage.wordpress.com/2013/02/09/458/) - This is a JS bookmarklet that takes any page and simulates in low vision scenarios.
