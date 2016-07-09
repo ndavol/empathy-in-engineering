@@ -3,11 +3,19 @@ A curated list of resources for building and promoting more compassionate engine
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-- 📰 - Article
-- 📚 - Book
-- 📹 - Video
+- [Words](#words)
+  - [Empathy for your users](#empathy-for-your-users)
+  - [Empathy for your peers](#empathy-for-your-peers)
+  - [Empathy in hiring](#empathy-in-hiring)
+- [JavaScript](#javascript)
+  - [Simulations](#simulations)
+  - [Bookmarklets](#bookmarklets)
 
-## Learning Resources
+
+## Words
+
+Articles (📰), books (📚) and videos (📹) on how to build a more empathic culture at work and the benefits.
+
 
 ### Empathy for your users
 
@@ -34,10 +42,13 @@ A curated list of resources for building and promoting more compassionate engine
 - [A Guide to Empathetic Hiring Process](https://medium.com/@fox/a-guide-to-empathetic-hiring-processes-c11c7ce0cd49) 📰 - @Fox on Medium discuss a few simple things employers can do to be kind to job applicants. 
 
 
-## Bookmarklets and Plugins
+## JavaScript
 
 Sometimes you need code samples to implement strategies above.
 
+### Simulations
 - [JS Simulation of Dyslexia](http://geon.github.io/programming/2016/03/03/dsxyliea) - This is a simulation of what it is like to read a block of text with dyslexia.
+
+### Bookmarklets
 - [JS Bookmarklet Simulating Colorblindness](https://github.com/Altreus/colourblind) - This is a JS bookmarklet that takes any page and simulates what is like to navigate with colorblindness.
 - [NoCoffee: JS Bookmarklet Simulating Low Vision Scenarios](https://accessgarage.wordpress.com/2013/02/09/458/) - This is a JS bookmarklet that takes any page and simulates in low vision scenarios.
