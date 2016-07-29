@@ -36,11 +36,11 @@ Articles (📰), books (📚) and videos (📹) on how to build a more empathic 
 - [What Google Learned From Its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) 📰 - The New York Times synthesizes how Google's data-driven culture discovered that norms centering communication and empathy made better teams.
 - [Difficult Conversations: How to Discuss What Matters Most](http://smile.amazon.com/gp/product/B004CR6ALA/) 📚  - Douglas Stone, Bruce Patton, & Sheila Heen of the Harvard Negotiation Project write about how to handle difficult conversations through a series of techniques that consider the "Third Story."
 - [Engineering Empathy: Fostering an Inclusive Culture at our Code School](http://www.alterconf.com/talks/engineering-empathy-fostering-inclusive-culture-our-code-school) 📹 - Lateesha Thomas discusses why empathy is part of the curriculum at DevBootcamp at Alterconf SF 2016.
-- [Emphathy](https://www.youtube.com/watch?v=1Evwgu369Jw) 📹 - A quick animation of Brené Brown talk on what Emphathy is and how it differs from Symphathy.
+- [Empathy Explainer](https://www.youtube.com/watch?v=1Evwgu369Jw) 📹 - A quick animation of Brené Brown talk on what empathy is and how it differs from sympathy.
 
 ### Empathy in Hiring
 
-- [A Guide to Empathetic Hiring Process](https://medium.com/@fox/a-guide-to-empathetic-hiring-processes-c11c7ce0cd49) 📰 - @Fox on Medium discuss a few simple things employers can do to be kind to job applicants. 
+- [A Guide to Empathetic Hiring Process](https://medium.com/@fox/a-guide-to-empathetic-hiring-processes-c11c7ce0cd49) 📰 - @Fox on Medium discuss a few simple things employers can do to be kind to job applicants.
 
 
 ## JavaScript
